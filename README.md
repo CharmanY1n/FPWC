@@ -1,5 +1,5 @@
 https://github.com/user-attachments/assets/dffb17d3-cf1c-40e0-ab53-5aaa5f88fe9f
-# Model-Based Planning for Device-Control Agents
+# World Model-Based Planning for Device-Control Agents
 
 ## Quick Start
 
